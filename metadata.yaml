@@ -7,8 +7,8 @@ desc: >-
   而是直接调用 SnowLuma 官方 WebUI REST API 完成配置与热重载，全程支持
   Windows / Linux，可管理多个 QQ 账号，并提供内嵌控制台页面。
 version: 1.0.6
-author: SATA-F5
-repo: https://github.com/SATA-F5/Snowluma-Go
+author: 守禄
+repo: https://github.com/Shou-Lu/Snowluma-Go
 astrbot_version: ">=4.24.1"
 support_platforms:
   - aiocqhttp
