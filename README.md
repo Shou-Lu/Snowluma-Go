@@ -1,6 +1,6 @@
 # SnowLuma Go
 
-SnowLuma Go 是一个把 [SnowLuma](https://github.com/SnowLuma/SnowLuma) 一键装好并接入 AstrBot 的插件：下载安装、启动登录、QQ 进程挂载、OneBot 反向 WS 配置全部自动完成，配置通过 SnowLuma 官方 WebUI API 写入并热重载。
+SnowLuma Go 是一个把 [SnowLuma](https://github.com/TomyJan/SnowLuma) 一键装好并接入 AstrBot 的插件：下载安装、启动登录、QQ 进程挂载、OneBot 反向 WS 配置全部自动完成，配置通过 SnowLuma 官方 WebUI API 写入并热重载。
 
 ## 功能
 

@@ -97,8 +97,8 @@ GITHUB_MIRRORS: List[str] = [
     "https://ghfast.top/",
 ]
 
-GITHUB_API = "https://api.github.com/repos/SnowLuma/SnowLuma"
-SNOWLUMA_RELEASE_BASE = "https://github.com/SnowLuma/SnowLuma/releases/download"
+GITHUB_API = "https://api.github.com/repos/TomyJan/SnowLuma"
+SNOWLUMA_RELEASE_BASE = "https://github.com/TomyJan/SnowLuma/releases/download"
 
 # Files that prove a directory is a SnowLuma runtime root.
 INSTALL_MARKERS = ("index.mjs", "check-node-version.cjs", "package.json")
